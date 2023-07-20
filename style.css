@@ -61,3 +61,19 @@ button{
 .onlineGameImg img{
     width: 200px;
 }
+.playInstantly{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    align-items: center;
+}
+.img5{
+    position: relative;
+    width: 400px;
+    height: 400px;
+}
+.img6 img{
+width: 200px;
+position: absolute;
+bottom:-67px;
+}
