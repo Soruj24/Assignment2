@@ -2,6 +2,10 @@
     margin: 0;
     padding: 0;
 }
+body{
+    width: 80%;
+    margin: 0 auto;
+}
 
 .header{
     display: flex;
@@ -23,3 +27,19 @@ display: flex;
 background-color: ghostwhite;
 }
 
+.bannarSection{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    align-items: center;
+}
+button{
+    background-color: rgb(0, 195, 255);
+    width: 100px;
+    height: 50px;
+    margin-top: 15px;
+    border-top-left-radius: 30%;
+    border-bottom-right-radius: 30%;
+    color: white;
+ 
+}
