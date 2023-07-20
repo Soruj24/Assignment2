@@ -115,3 +115,33 @@ right: 10px;
 .multimediaArtistRight{
     text-align: right;
 }
+.footer{
+    text-align: center;
+    margin-top: 50px;
+    background-color: black;
+    color: wheat;
+}
+.footerlogu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.footerlogu img{
+    margin-top: 15px;
+}
+.footerMenu{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+.footerMenu p{
+    padding: 15px;
+}
+.footerIcon{
+    display: flex;
+    justify-content: center;
+}
+.footerIcon p{
+    padding: 15px;
+}
