@@ -78,3 +78,40 @@ position: absolute;
 bottom:-67px;
 right: 300px;
 }
+.playInstantly1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    align-items: center;
+}
+.img51{
+    position: relative;
+    width: 400px;
+    height: 400px;
+}
+.img61 img{
+width: 200px;
+position: absolute;
+bottom:-67px;
+right: 10px;
+}
+.careers{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    align-items: center;
+    padding: 50px;
+    background-color: rgb(166, 255, 0);
+}
+.careersImg{
+    width: 50%;
+}
+.multimediaArtist{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    align-items: center;
+}
+.multimediaArtistRight{
+    text-align: right;
+}
